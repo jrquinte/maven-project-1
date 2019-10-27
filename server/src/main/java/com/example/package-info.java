@@ -1,4 +1,4 @@
   /**
-   * Este es un paquete de prueba
+   * Este es un paquete de prueba.
    */
 package com.example;
